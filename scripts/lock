@@ -1,0 +1,18 @@
+#!/bin/sh
+
+rm -f ~/.tmp/locked.png
+rm -f ~/.tmp/base.png
+
+# If `imagemagick` is not installed, use a blank screen.
+[ -f /usr/bin/convert ] &&
+maim ~/.tmp/base.png &&
+pgrep -x dunst && notify-send "Locking computer..." &&
+convert ~/.tmp/base.png -blur 0x8 ~/.tmp/locked.png
+
+# Pause music.
+mpc pause >/dev/null 2>&1
+
+i3lock -e -f -c 000000 -i ~/.tmp/locked.png
+
+# Turn off display after 10s.
+# sleep 10 && pgrep i3lock && xset dpms force off

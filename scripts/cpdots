@@ -1,0 +1,30 @@
+#!/bin/sh
+
+cp -r  ~/.ncmpcpp/ /home/robert/Repos/dotfiles-desktop
+cp -r  ~/Scripts/ /home/robert/Repos/dotfiles-desktop
+cp ~/.Xresources /home/robert/Repos/dotfiles-desktop
+cp ~/.bashrc /home/robert/Repos/dotfiles-desktop
+cp ~/.bash_profile /home/robert/Repos/dotfiles-desktop
+cp ~/.vimrc /home/robert/Repos/dotfiles-desktop
+cp ~/.xinitrc /home/robert/Repos/dotfiles-desktop
+cp ~/.tmux.conf /home/robert/Repos/dotfiles-desktop
+cp ~/.xmonad/xmonad.hs /home/robert/Repos/dotfiles-desktop/.xmonad
+cp ~/.xmonad/xmobar.hs /home/robert/Repos/dotfiles-desktop/.xmonad
+cp ~/.xmonad/how-to-install.txt /home/robert/Repos/dotfiles-desktop/.xmonad
+cp ~/.pqivrc /home/robert/Repos/dotfiles-desktop
+cp -r ~/.config/alacritty /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/picom /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/dunst /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/htop /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/mpd/mpd.conf /home/robert/Repos/dotfiles-desktop/.config/mpd
+cp -r ~/.config/mpv /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/neofetch /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/pcmanfm/default /home/robert/Repos/dotfiles-desktop/.config/pcmanfm
+cp -r ~/.config/zathura /home/robert/Repos/dotfiles-desktop/.config
+rm ~/.config/vifm/vifminfo
+cp -r ~/.config/vifm /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/fish /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/nvim /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.config/lf /home/robert/Repos/dotfiles-desktop/.config
+cp -r ~/.fonts/ /home/robert/Repos/dotfiles-desktop/
+cp -r ~/.config/ncspot/config.toml /home/robert/Repos/dotfiles-desktop/.config/ncspot

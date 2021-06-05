@@ -1,0 +1,7 @@
+2021/06/05-19:22:45.315 4cef9 Recovering log #3
+2021/06/05-19:22:45.513 4cef9 Level-0 table #5: started
+2021/06/05-19:22:45.581 4cef9 Level-0 table #5: 2784458 bytes OK
+2021/06/05-19:22:45.584 4cef9 Recovering log #28
+2021/06/05-19:22:45.592 4cef9 Delete type=0 #28
+2021/06/05-19:22:45.592 4cef9 Delete type=3 #2
+2021/06/05-19:22:45.592 4cef9 Delete type=0 #3

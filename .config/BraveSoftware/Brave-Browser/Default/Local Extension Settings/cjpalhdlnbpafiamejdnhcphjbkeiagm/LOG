@@ -1,0 +1,32 @@
+2021/06/05-19:23:17.016 4cf7c Creating DB /home/robert/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2021/06/05-19:23:17.025 4cf7c Reusing MANIFEST /home/robert/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/06/05-19:23:18.655 4cef9 Level-0 table #5: started
+2021/06/05-19:23:18.690 4cef9 Level-0 table #5: 1499658 bytes OK
+2021/06/05-19:23:18.694 4cef9 Delete type=0 #3
+2021/06/05-19:26:19.190 4e768 Level-0 table #7: started
+2021/06/05-19:26:19.223 4e768 Level-0 table #7: 2214119 bytes OK
+2021/06/05-19:26:19.226 4e768 Delete type=0 #4
+2021/06/05-19:32:20.887 554e3 Level-0 table #9: started
+2021/06/05-19:32:20.924 554e3 Level-0 table #9: 2737009 bytes OK
+2021/06/05-19:32:20.927 554e3 Delete type=0 #6
+2021/06/05-19:42:23.218 58059 Level-0 table #11: started
+2021/06/05-19:42:23.251 58059 Level-0 table #11: 2134514 bytes OK
+2021/06/05-19:42:23.254 58059 Delete type=0 #8
+2021/06/05-19:53:24.457 6290d Level-0 table #13: started
+2021/06/05-19:53:24.486 6290d Level-0 table #13: 1774580 bytes OK
+2021/06/05-19:53:24.489 6290d Delete type=0 #10
+2021/06/05-19:55:17.063 6855d Level-0 table #15: started
+2021/06/05-19:55:17.102 6855d Level-0 table #15: 3001615 bytes OK
+2021/06/05-19:55:17.106 6855d Delete type=0 #12
+2021/06/05-19:55:17.106 6855d Compacting 4@0 + 1@1 files
+2021/06/05-19:55:17.162 6855d Generated table #16@0: 15 keys, 2099595 bytes
+2021/06/05-19:55:17.206 6855d Generated table #17@0: 7 keys, 2939347 bytes
+2021/06/05-19:55:17.247 6855d Generated table #18@0: 8 keys, 2442581 bytes
+2021/06/05-19:55:17.256 6855d Generated table #19@0: 4 keys, 170339 bytes
+2021/06/05-19:55:17.256 6855d Compacted 4@0 + 1@1 files => 7651862 bytes
+2021/06/05-19:55:17.259 6855d compacted to: files[ 0 4 1 0 0 0 0 ]
+2021/06/05-19:55:17.259 6855d Delete type=2 #15
+2021/06/05-19:55:17.259 6855d Delete type=2 #9
+2021/06/05-19:55:17.259 6855d Delete type=2 #13
+2021/06/05-19:55:17.259 6855d Delete type=2 #7
+2021/06/05-19:55:17.259 6855d Delete type=2 #11

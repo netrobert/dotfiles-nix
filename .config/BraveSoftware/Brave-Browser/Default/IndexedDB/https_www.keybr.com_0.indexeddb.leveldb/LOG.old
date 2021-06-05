@@ -1,0 +1,8 @@
+2021/06/05-18:49:51.776 2b692 Reusing MANIFEST /home/robert/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.keybr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/05-18:49:51.776 2b692 Recovering log #7
+2021/06/05-18:49:51.776 2b692 Reusing old log /home/robert/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.keybr.com_0.indexeddb.leveldb/000007.log 
+2021/06/05-18:49:53.799 2b692 Level-0 table #11: started
+2021/06/05-18:49:53.799 2b692 Level-0 table #11: 0 bytes OK
+2021/06/05-18:49:53.804 2b692 Delete type=0 #7
+2021/06/05-18:49:53.804 2b692 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/05-18:49:53.804 2b692 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/06/05-17:55:14.321 a6e4e Reusing MANIFEST /home/robert/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.nixos.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/05-17:55:14.321 a6e4e Recovering log #11
+2021/06/05-17:55:14.321 a6e4e Reusing old log /home/robert/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discourse.nixos.org_0.indexeddb.leveldb/000011.log 
+2021/06/05-17:55:49.276 af7b4 Level-0 table #16: started
+2021/06/05-17:55:49.282 af7b4 Level-0 table #16: 1583 bytes OK
+2021/06/05-17:55:49.285 af7b4 Delete type=0 #11
+2021/06/05-17:55:49.285 af7b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/05-17:55:49.285 af7b4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80S+\xce\x9dwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00n\x00i\x00x\x00o\x00s\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 304 : 1
+2021/06/05-17:55:49.285 af7b4 Compacting 1@1 + 1@2 files
+2021/06/05-17:55:49.287 af7b4 Generated table #17@1: 54 keys, 2893 bytes
+2021/06/05-17:55:49.287 af7b4 Compacted 1@1 + 1@2 files => 2893 bytes
+2021/06/05-17:55:49.290 af7b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/05-17:55:49.290 af7b4 Delete type=2 #16
+2021/06/05-17:55:49.290 af7b4 Delete type=2 #13
+2021/06/05-17:55:49.290 af7b4 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80S+\xce\x9dwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00.\x00n\x00i\x00x\x00o\x00s\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 304 : 1 .. (end); will stop at (end)

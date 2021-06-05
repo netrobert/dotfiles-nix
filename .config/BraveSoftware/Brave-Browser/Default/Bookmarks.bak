@@ -1,0 +1,40 @@
+{
+   "checksum": "dc3b9b0d6f724a27ab592f1406e16be6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13267370154291005",
+            "guid": "82b7088d-8f7c-4e35-864d-aa67981dd05b",
+            "id": "5",
+            "name": "https://youtu.be/T8wwlHugL_k",
+            "type": "url",
+            "url": "https://discord.com/channels/83921345221496832/83921345221496832"
+         } ],
+         "date_added": "13267368812846636",
+         "date_modified": "13267386978113908",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13267368812846639",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13267368812846641",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
